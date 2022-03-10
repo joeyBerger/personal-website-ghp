@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/joeyBerger/personal-website-ghp/static/css/main.073c9b0a.css",
-    "main.js": "/joeyBerger/personal-website-ghp/static/js/main.6054a0d1.js",
-    "static/js/787.af7286ac.chunk.js": "/joeyBerger/personal-website-ghp/static/js/787.af7286ac.chunk.js",
-    "static/media/logo.svg": "/joeyBerger/personal-website-ghp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/joeyBerger/personal-website-ghp/index.html",
-    "main.073c9b0a.css.map": "/joeyBerger/personal-website-ghp/static/css/main.073c9b0a.css.map",
-    "main.6054a0d1.js.map": "/joeyBerger/personal-website-ghp/static/js/main.6054a0d1.js.map",
-    "787.af7286ac.chunk.js.map": "/joeyBerger/personal-website-ghp/static/js/787.af7286ac.chunk.js.map"
+    "main.css": "/personal-website-ghp/static/css/main.073c9b0a.css",
+    "main.js": "/personal-website-ghp/static/js/main.c22ada4e.js",
+    "static/js/787.af7286ac.chunk.js": "/personal-website-ghp/static/js/787.af7286ac.chunk.js",
+    "static/media/logo.svg": "/personal-website-ghp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/personal-website-ghp/index.html",
+    "main.073c9b0a.css.map": "/personal-website-ghp/static/css/main.073c9b0a.css.map",
+    "main.c22ada4e.js.map": "/personal-website-ghp/static/js/main.c22ada4e.js.map",
+    "787.af7286ac.chunk.js.map": "/personal-website-ghp/static/js/787.af7286ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6054a0d1.js"
+    "static/js/main.c22ada4e.js"
   ]
 }
